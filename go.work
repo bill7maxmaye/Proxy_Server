@@ -1,0 +1,11 @@
+go 1.21.3
+
+use (
+	./proxy/part1
+	./proxy/part2
+	./proxy/part3
+	./proxy/part4
+	./proxy/part5
+
+	./proxy/webserver
+)
